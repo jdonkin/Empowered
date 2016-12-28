@@ -1,0 +1,8 @@
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\bin\Debug\ListTesting.exe.config
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\bin\Debug\ListTesting.exe
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\bin\Debug\ListTesting.pdb
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\bin\Debug\nunit.framework.dll
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\bin\Debug\nunit.framework.xml
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\obj\Debug\ListTesting.csprojResolveAssemblyReference.cache
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\obj\Debug\ListTesting.exe
+c:\users\jdonkin\documents\visual studio 2015\Projects\ListTesting\ListTesting\obj\Debug\ListTesting.pdb
